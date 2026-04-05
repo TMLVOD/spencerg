@@ -287,8 +287,8 @@ Removes Delinea (Thycotic) Privilege Manager agent without hardcoded version str
 
 | | |
 |--|--|
-| 📧 Email | [your.email@example.com](mailto:your.email@example.com) |
-| 💼 LinkedIn | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
+| 📧 Email | [tmlvod@proton.me](mailto:tmlvod@proton.me) |
+| 💼 LinkedIn | [linkedin.com/in/spencer-g-76556310b](https://linkedin.com/in/spencer-g-76556310b) |
 | 🏅 Certifications | *(Add your certifications here — e.g. CISSP, Security+, CEH, OSCP)* |
 
 ---
