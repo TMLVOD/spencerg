@@ -283,16 +283,6 @@ Removes Delinea (Thycotic) Privilege Manager agent without hardcoded version str
 
 ---
 
-## Contact
-
-| | |
-|--|--|
-| 📧 Email | [tmlvod@proton.me](mailto:tmlvod@proton.me) |
-| 💼 LinkedIn | [linkedin.com/in/spencer-g-76556310b](https://linkedin.com/in/spencer-g-76556310b) |
-| 🏅 Certifications | *(Add your certifications here — e.g. CISSP, Security+, CEH, OSCP)* |
-
----
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
